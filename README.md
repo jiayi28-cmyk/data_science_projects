@@ -1,4 +1,4 @@
-- This project was completed as part of a group. I was responsible for parts of the exploratory data analysis.
+This project was completed as part of a group. I was responsible for parts of the exploratory data analysis.
 # Diabetes-Prediction
 # Objective
 - Build and compare machine learning classification models that can accurately identify patients with diabetes using demographic information, clinical measurements, and lifestyle factors.
